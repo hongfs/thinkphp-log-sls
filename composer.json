@@ -1,0 +1,20 @@
+{
+    "name": "hongfs/thinkphp-log-sls-demo",
+    "description": "ThinkPHP 阿里云日志服务驱动",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hongfs\\Think\\Log\\Driver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hongfs",
+            "email": "hong@hongfs.cn"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "lokielse/aliyun-open-api-sls": "^1.0"
+    }
+}
