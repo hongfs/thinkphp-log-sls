@@ -1,5 +1,5 @@
 {
-    "name": "hongfs/thinkphp-log-sls-demo",
+    "name": "hongfs/thinkphp-log-sls",
     "description": "ThinkPHP 阿里云日志服务驱动",
     "license": "MIT",
     "autoload": {
